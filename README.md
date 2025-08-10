@@ -33,9 +33,11 @@ Edges:
 0 → 1, 2
 1 → 3, 4
 2 → 4
+DFS Traversal: 0 1 3 4 2
 
 ---
 
 ## 👩‍💻 Author
 - **P. Devyani** ✨
+
 
